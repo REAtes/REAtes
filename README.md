@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emre Ates</h1>
 <h3 align="center">Experienced Marketeer and Passionate Jr. Data Scientist</h3>
 
-- 👨‍💻 My last projects is available at [https://gastromiuul.streamlit.app/](https://gastromiuul.streamlit.app/)
+- 👨‍💻 My last project is available ➡ [Gastromiuul🍽](https://gastromiuul.streamlit.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@emre_ates](https://medium.com/@emre_ates)
+- 📝 I regularly write articles on [medium/@emre_ates](https://medium.com/@emre_ates)
 
-- 📫 How to reach me **r.emreates@gmail.com**
+- 📫 How to reach me: **r.emreates@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Aq23FKnCpDMvoqFz9RzHYHArFzFKOA?e=3pMDwh](https://1drv.ms/b/s!Aq23FKnCpDMvoqFz9RzHYHArFzFKOA?e=3pMDwh)
+- 📄 Know about my experiences [here.](https://1drv.ms/b/s!Aq23FKnCpDMvoqFz9RzHYHArFzFKOA?e=3pMDwh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
