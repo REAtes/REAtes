@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Ates</h1>
-<h3 align="center">Experienced Marketeer and Passionate Jr. Data Scientist</h3>
+<h3 align="center">Experienced Marketeer and Passionate Data Scientist</h3>
 
 - 👨‍💻 My last project is available ➡ [Gastromiuul🍽](https://gastromiuul.streamlit.app/)
 
