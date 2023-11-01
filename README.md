@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre Ates</h1>
 <h3 align="center">Experienced Marketeer and Passionate Data Scientist</h3>
 
-- 👨‍💻 My last project is available ➡ [CookitNow](https://cookitnow.streamlit.app/)
-
 - 📝 I regularly write articles on [medium/@emre_ates](https://medium.com/@emre_ates)
 
 - 📫 How to reach me: **r.emreates@gmail.com**
