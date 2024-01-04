@@ -13,6 +13,8 @@ I am also passionate about data science and machine learning. Recently, I comple
 
 - [Together](https://www.upwork.com/freelancers/~01dc680066407bb890), we will not only work with data but also decide how to create strategies from the data at hand. Let's embark on a journey that leads to deeper connections with your customers and data-driven success!
 
+<p align="center"><img align="center" src="https://github.com/REAtes/REAtes/blob/main/infografik.png" alt="shape your strategy with data scientist | Emre Ates" width="800" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emreates" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emreates" height="30" width="40" /></a>
